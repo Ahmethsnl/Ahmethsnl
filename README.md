@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmethsnl" alt="ahmethsnl" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Javascript,Java, .Net Core**
+- 🌱 I’m currently learning **Python, Javascript, Java, .Net Core**
 
 - 👨‍💻 All of my projects are available at [https://ahmethsnl.itch.io/](https://ahmethsnl.itch.io/)
 
