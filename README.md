@@ -13,7 +13,7 @@
 
 - About Me : **I have been preparing projects and prototypes on C# and Unity for 2 years. I started to learn Python, .Net Core, Java, Javascript with the C# language, which I think is at a certain level. My priority is to master C# , Unity and Python.**
 
-- My favorite games and platforms : <img src="https://img.icons8.com/nolan/40/hades.png"/> <img src="https://img.icons8.com/nolan/40/league-of-legends.png"/> <img src="https://img.icons8.com/nolan/40/witcher.png"/> <img src="https://img.icons8.com/nolan/40/skyrim.png"/> <img src="https://img.icons8.com/nolan/40/steam--v1.png"/> <img src="https://img.icons8.com/nolan/40/epic-games.png"/> <img src="https://img.icons8.com/nolan/40/play-station.png"/> <img src="https://img.icons8.com/nolan/40/genshin-impact-logo.png"/> <img src="https://img.icons8.com/nolan/40/minecraft-logo.png"/>
+<h3 align="left">My favorite games and platforms:</h3> <img src="https://img.icons8.com/nolan/40/hades.png"/> <img src="https://img.icons8.com/nolan/40/league-of-legends.png"/> <img src="https://img.icons8.com/nolan/40/witcher.png"/> <img src="https://img.icons8.com/nolan/40/skyrim.png"/> <img src="https://img.icons8.com/nolan/40/steam--v1.png"/> <img src="https://img.icons8.com/nolan/40/epic-games.png"/> <img src="https://img.icons8.com/nolan/40/play-station.png"/> <img src="https://img.icons8.com/nolan/40/genshin-impact-logo.png"/> <img src="https://img.icons8.com/nolan/40/minecraft-logo.png"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
