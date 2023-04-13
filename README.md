@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmethsnl/](https://www.linkedin.com/in/ahmethsnl/)
 
-- About Me : **I have been preparing projects and prototypes on C# and Unity for 2 years. I started to learn Python, .Net Core, Java, Javascript with the C# language, which I think is at a certain level. My priority is to master C# , Unity and Python.**
+- About Me : **I have been preparing projects and prototypes on C# and Unity for 2 years. I started to learn Python with the C# language, which I think is at a certain level. My priority is to master C# , Unity and Python.**
 
 <h3 align="left">My favorite games and platforms:</h3> 
 <p align="left">
