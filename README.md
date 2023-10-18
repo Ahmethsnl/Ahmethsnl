@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmethsnl.itch.io/](https://ahmethsnl.itch.io/)
 
-- Ask me about **C,Shell,C# and Unity**
+- Ask me about **C , Shell , C# and Unity**
 
 - 📫 How to reach me **asanli018@gmail.com**
 
