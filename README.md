@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">A Passionate Game Developer from Istanbul/Turkey</h3>
+<h1 align="center">Hi, I'm Ahmet Şanlı</h1>
+<h3 align="center">A Passionate Developer from Istanbul/Turkey</h3>
 
 - 🌱 I’m currently learning **Python,C,Shell**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmethsnl/](https://www.linkedin.com/in/ahmethsnl/)
 
-- About Me : **I have been preparing projects and prototypes on C# and Unity for 2 years. I started to learn Python with the C# language, which I think is at a certain level. My priority is to master C# , Unity and Python.**
+- About Me : **I am studying management information systems at Istanbul University and studying at 42 software schools.I have been developing games for 3 years.**
 
 <h3 align="left">My favorite games and platforms:</h3> 
 <p align="left">
