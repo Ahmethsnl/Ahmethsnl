@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A Passionate Game Developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **Python, Javascript, Java,.Net Core**
+- 🌱 I’m currently learning **Python,C,Shell**
 
 - 👨‍💻 All of my projects are available at [https://ahmethsnl.itch.io/](https://ahmethsnl.itch.io/)
 
