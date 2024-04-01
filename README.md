@@ -12,11 +12,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmethsnl/](https://www.linkedin.com/in/ahmethsnl/)
 
 - About Me : **I am studying management information systems at Istanbul University and studying at 42 software schools.I have been developing games for 3 years.**
-
-<h3 align="left">My favorite games and platforms:</h3> 
-<p align="left">
-<img src="https://img.icons8.com/nolan/40/hades.png"/> <img src="https://img.icons8.com/nolan/40/league-of-legends.png"/> <img src="https://img.icons8.com/nolan/40/witcher.png"/> <img src="https://img.icons8.com/nolan/40/skyrim.png"/> <img src="https://img.icons8.com/nolan/40/steam--v1.png"/> <img src="https://img.icons8.com/nolan/40/epic-games.png"/> <img src="https://img.icons8.com/nolan/40/play-station.png"/> <img src="https://img.icons8.com/nolan/40/genshin-impact-logo.png"/> <img src="https://img.icons8.com/nolan/40/minecraft-logo.png"/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmethsnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmethsnl" height="30" width="40" /></a>
