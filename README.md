@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmethsnl&label=Profile%20views&color=0e75b6&style=flat" alt="ahmethsnl" /> </p>
 
-- 🌱 I’m currently learning **Python,C,Shell**
+- 🌱 I’m currently learning **C,C#**
 
-- Ask me about **C , Shell , C# and Unity**
+- Ask me about **C , C# and Unity**
 
 - 📫 How to reach me **asanli018@gmail.com**
 
