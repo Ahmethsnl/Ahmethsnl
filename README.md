@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmethsnl&label=Profile%20views&color=0e75b6&style=flat" alt="ahmethsnl" /> </p>
 
-- 🌱 I’m currently learning **C,C#**
-
-- Ask me about **C , C# and Unity**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **asanli018@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmethsnl/](https://www.linkedin.com/in/ahmethsnl/)
 
-- About Me : **I study management information systems at Istanbul University and study at 42 software schools. After dealing with game development for 2 years, I am currently studying software development.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmethsnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmethsnl" height="30" width="40" /></a>
