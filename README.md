@@ -15,8 +15,6 @@
 <a href="https://instagram.com/ahmet.hsnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmet.hsnl" height="30" width="40" /></a>
 </p>
 
-[![ahmsanli's 42 stats](https://badge.mediaplus.ma/darkblue/ahmsanli?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
  
