@@ -44,7 +44,7 @@
 ## 🛠️ **Projeler Hakkında**
 Her proje farklı bir alanı kapsıyor ve beni yazılım geliştirme dünyasında bir adım daha ileriye taşıdı. İşte bazı önemli projeler ve kısa açıklamaları:
 
-### **📌 Low-Level C Projeleri**
+### **📌 Basit C Projeleri**
 - **Libft (125/100):** C dilinde kendi standart kütüphanemi yazdım.  
 - **Ft_printf (100/100):** `printf` fonksiyonunu yeniden kodladım.  
 - **Get_next_line (125/100):** Dosyalardan satır satır okuma fonksiyonu geliştirdim.  
