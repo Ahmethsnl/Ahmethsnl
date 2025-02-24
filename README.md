@@ -50,11 +50,11 @@ Her proje farklı bir alanı kapsıyor ve beni yazılım geliştirme dünyasınd
 - **Ft_printf (100/100):** `printf` fonksiyonunu yeniden kodladım.  
 - **Get_next_line (125/100):** Dosyalardan satır satır okuma fonksiyonu geliştirdim.  
 - **Minitalk (100/100):** Processler arası iletişim için sinyal tabanlı bir mesajlaşma sistemi yazdım.  
-- **Push_swap (90/100):** En optimal sıralama algoritmasını bulmak için beynimi yaktığım proje.  
+- **Push_swap (90/100):** En optimal sıralama algoritmasını yazmaya çalıştım.  
 
 ### **🕹️ Oyun ve Grafik Projeleri**
-- **So_long (110/100):** Mini bir 2D oyun geliştirdim (MLX kullandım).  
-- **Cub3D (100/100):** Wolfenstein 3D tarzında bir **Raycasting Engine** yazdım.  
+- **So_long (110/100):** Mini bir 2D oyun geliştirdim (MLX kullandım).
+- **Cub3D (100/100):** Wolfenstein 3D tarzında bir **Raycasting Engine** yazdım. (MLX kullandım)
 
 ### **🐚 Sistem Programlama Projesi**
 - **Minishell (100/100):** Temel bir shell uygulaması geliştirdim. Bash'in minik versiyonu diyebiliriz.  
