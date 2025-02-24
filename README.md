@@ -25,19 +25,22 @@
 # 🏆 42 Projects Progress
 | #  | Proje Adı        | Puan |
 |----|-----------------|------|
-| 1  | Libft           | 125  |
-| 2  | Ft_printf       | 100  |
-| 3  | Get_next_line   | 125  |
-| 4  | Minitalk        | 100  |
-| 5  | So_long         | 110  |
-| 6  | Push_swap       | 90   |
-| 7  | Minishell       | 100  |
-| 8  | CPP Module 00   | 80   |
-| 9  | CPP Module 01   | 90   |
-| 10 | CPP Module 02   | 80   |
-| 11 | CPP Module 03   | 80   |
-| 12 | CPP Module 04   | 80   |
-| 13 | Cub3D           | 100  |
+| #  | Proje           | Not | Link                                               |
+|----|-----------------|-----|----------------------------------------------------|
+| 1  | [Libft](https://github.com/Ahmethsnl/42-libft)           | 125 | [Repo](https://github.com/Ahmethsnl/42-libft)      |
+| 2  | [Ft_printf](https://github.com/Ahmethsnl/42-printf)       | 100 | [Repo](https://github.com/Ahmethsnl/42-printf)     |
+| 3  | [Get_next_line](https://github.com/Ahmethsnl/42-get_next_line) | 125 | [Repo](https://github.com/Ahmethsnl/42-get_next_line) |
+| 4  | [Minitalk](https://github.com/Ahmethsnl/42-Minitalk)        | 100 | [Repo](https://github.com/Ahmethsnl/42-Minitalk)    |
+| 5  | [So_long](https://github.com/Ahmethsnl/42-so-long)         | 110 | [Repo](https://github.com/Ahmethsnl/42-so-long)     |
+| 6  | [Push_swap](https://github.com/Ahmethsnl/42-push-swap)     | 90  | [Repo](https://github.com/Ahmethsnl/42-push-swap)   |
+| 7  | [Minishell](https://github.com/Ahmethsnl/42-minishell)     | 100 | [Repo](https://github.com/Ahmethsnl/42-minishell)   |
+| 8  | [CPP Module 00](https://github.com/Ahmethsnl/cpp_modules/tree/master/module00) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module00) |
+| 9  | [CPP Module 01](https://github.com/Ahmethsnl/cpp_modules/tree/master/module01) | 90  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module01) |
+| 10 | [CPP Module 02](https://github.com/Ahmethsnl/cpp_modules/tree/master/module02) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module02) |
+| 11 | [CPP Module 03](https://github.com/Ahmethsnl/cpp_modules/tree/master/module03) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module03) |
+| 12 | [CPP Module 04](https://github.com/Ahmethsnl/cpp_modules/tree/master/module04) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module04) |
+| 13 | [Cub3D](https://github.com/Ahmethsnl/cub3d)           | 100 | [Repo](https://github.com/Ahmethsnl/cub3d)          |
+
 
 ## 🛠️ **Projeler Hakkında**
 Her proje farklı bir alanı kapsıyor ve beni yazılım geliştirme dünyasında bir adım daha ileriye taşıdı. İşte bazı önemli projeler ve kısa açıklamaları:
