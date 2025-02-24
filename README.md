@@ -23,9 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmethsnl&show_icons=true&locale=en" alt="Ahmet Şanlı" /></p>
 
 # 🏆 42 Projects Progress
-
-## 📌 **Tamamlanan Projeler ve Puanlar**
-
+//## 📌 **Tamamlanan Projeler ve Puanlar**
 | #  | Proje Adı        | Puan |
 |----|-----------------|------|
 | 1  | Libft           | 125  |
