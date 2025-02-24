@@ -33,11 +33,11 @@
 | 5  | [So_long](https://github.com/Ahmethsnl/42-so-long)         | 110 | [Repo](https://github.com/Ahmethsnl/42-so-long)     |
 | 6  | [Push_swap](https://github.com/Ahmethsnl/42-push-swap)     | 90  | [Repo](https://github.com/Ahmethsnl/42-push-swap)   |
 | 7  | [Minishell](https://github.com/Ahmethsnl/42-minishell)     | 100 | [Repo](https://github.com/Ahmethsnl/42-minishell)   |
-| 8  | [CPP Module 00](https://github.com/Ahmethsnl/cpp_modules/tree/master/module00) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module00) |
-| 9  | [CPP Module 01](https://github.com/Ahmethsnl/cpp_modules/tree/master/module01) | 90  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module01) |
-| 10 | [CPP Module 02](https://github.com/Ahmethsnl/cpp_modules/tree/master/module02) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module02) |
-| 11 | [CPP Module 03](https://github.com/Ahmethsnl/cpp_modules/tree/master/module03) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module03) |
-| 12 | [CPP Module 04](https://github.com/Ahmethsnl/cpp_modules/tree/master/module04) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/master/module04) |
+| 8  | [CPP Module 00](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_00) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_00) |
+| 9  | [CPP Module 01](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_01) | 90  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_01) |
+| 10 | [CPP Module 02](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_02) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_02) |
+| 11 | [CPP Module 03](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_03) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_03) |
+| 12 | [CPP Module 04](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_04) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_04) |
 | 13 | [Cub3D](https://github.com/Ahmethsnl/cub3d)           | 100 | [Repo](https://github.com/Ahmethsnl/cub3d)          |
 
 
