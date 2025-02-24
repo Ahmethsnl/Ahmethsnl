@@ -58,7 +58,7 @@ Her proje farklı bir alanı kapsıyor ve beni yazılım geliştirme dünyasınd
 ### **🐚 Sistem Programlama Projesi**
 - **Minishell (100/100):** Temel bir shell uygulaması geliştirdim. Bash'in minik versiyonu diyebiliriz.  
 
-### **💎 C++ OOP ve Yazılım Mühendisliği**
+### **💎 C++ ve OOP**
 - **CPP Module 00 - 04 (80-90/100):**  
   Nesne yönelimli programlamaya (OOP) giriş yaptım.  
   Bellek yönetimi, sınıflar, kalıtım, polimorfizm gibi konuları kapsıyor.  
