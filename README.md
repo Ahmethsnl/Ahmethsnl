@@ -28,7 +28,7 @@
 | #  | Proje           | Not | Link                                               |
 | 1  | [Libft](https://github.com/Ahmethsnl/42-libft)           | 125 | [Repo](https://github.com/Ahmethsnl/42-libft)      |
 | 2  | [Ft_printf](https://github.com/Ahmethsnl/42-printf)       | 100 | [Repo](https://github.com/Ahmethsnl/42-printf)     |
-| 3  | [Get_next_line](https://github.com/Ahmethsnl/42-get_next_line) | 125 | [Repo](https://github.com/Ahmethsnl/42-get_next_line) |
+| 3  | [Get_next_line](https://github.com/Ahmethsnl/42-get-next-line) | 125 | [Repo](https://github.com/Ahmethsnl/42-get-next-line) |
 | 4  | [Minitalk](https://github.com/Ahmethsnl/42-Minitalk)        | 100 | [Repo](https://github.com/Ahmethsnl/42-Minitalk)    |
 | 5  | [So_long](https://github.com/Ahmethsnl/42-so-long)         | 110 | [Repo](https://github.com/Ahmethsnl/42-so-long)     |
 | 6  | [Push_swap](https://github.com/Ahmethsnl/42-push-swap)     | 90  | [Repo](https://github.com/Ahmethsnl/42-push-swap)   |
