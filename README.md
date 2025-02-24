@@ -26,7 +26,6 @@
 | #  | Proje Adı        | Puan |
 |----|-----------------|------|
 | #  | Proje           | Not | Link                                               |
-|----|-----------------|-----|----------------------------------------------------|
 | 1  | [Libft](https://github.com/Ahmethsnl/42-libft)           | 125 | [Repo](https://github.com/Ahmethsnl/42-libft)      |
 | 2  | [Ft_printf](https://github.com/Ahmethsnl/42-printf)       | 100 | [Repo](https://github.com/Ahmethsnl/42-printf)     |
 | 3  | [Get_next_line](https://github.com/Ahmethsnl/42-get_next_line) | 125 | [Repo](https://github.com/Ahmethsnl/42-get_next_line) |
