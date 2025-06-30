@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I'm Ahmet Şanlı</h1>
 <h3 align="center">A Passionate Developer from Istanbul/Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmethsnl&label=Profile%20views&color=0e75b6&style=flat" alt="ahmethsnl" /> </p>
-[![Last Commit](https://img.shields.io/github/last-commit/ahmethsnl/ahmethsnl?style=flat)](https://github.com/ahmethsnl/ahmethsnl/commits)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ahmethsnl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/ahmethsnl/ahmethsnl/commits">
+    <img src="https://img.shields.io/github/last-commit/ahmethsnl/ahmethsnl?style=flat" alt="Last Commit" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **C, C++**
 
