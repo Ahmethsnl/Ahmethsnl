@@ -41,24 +41,24 @@
 | 13 | [Cub3D](https://github.com/Ahmethsnl/cub3d)           | 100 | [Repo](https://github.com/Ahmethsnl/cub3d)          |
 
 
-## 🛠️ **Projeler Hakkında**
-Her proje farklı bir alanı kapsıyor ve beni yazılım geliştirme dünyasında bir adım daha ileriye taşıdı. İşte bazı önemli projeler ve kısa açıklamaları:
+## 🛠️ Projects Overview
+Each project focuses on a different area and has helped me grow as a developer. Here are some highlights:
 
-### **📌 Basit C Projeleri**
-- **Libft (125/100):** C dilinde kendi standart kütüphanemi yazdım.  
-- **Ft_printf (100/100):** `printf` fonksiyonunu yeniden kodladım.  
-- **Get_next_line (125/100):** Dosyalardan satır satır okuma fonksiyonu geliştirdim.  
-- **Minitalk (100/100):** Processler arası iletişim için sinyal tabanlı bir mesajlaşma sistemi yazdım.  
-- **Push_swap (90/100):** En optimal sıralama algoritmasını yazmaya çalıştım.  
+### 📌 Basic C Projects
+- **Libft (125/100):** Recreated the standard C library from scratch.
+- **Ft_printf (100/100):** Custom implementation of the `printf` function.
+- **Get_next_line (125/100):** Function to read files line by line.
+- **Minitalk (100/100):** Message communication between processes using Unix signals.
+- **Push_swap (90/100):** Sorting algorithm project focused on optimization.
 
-### **🕹️ Oyun ve Grafik Projeleri**
-- **So_long (110/100):** Mini bir 2D oyun geliştirdim (MLX kullandım).
-- **Cub3D (100/100):** Wolfenstein 3D tarzında bir **Raycasting Engine** yazdım. (MLX kullandım)
+### 🕹️ Game & Graphics Projects
+- **So_long (110/100):** A simple 2D game built using the MLX graphics library.
+- **Cub3D (100/100):** A basic raycasting engine inspired by Wolfenstein 3D, using MLX.
 
-### **🐚 Sistem Programlama Projesi**
-- **Minishell (100/100):** Temel bir shell uygulaması geliştirdim. Bash'in minik versiyonu diyebiliriz.  
+### 🐚 System Programming
+- **Minishell (100/100):** A small shell implementation — built-in commands, pipes, and redirections included.
 
-### **💎 C++ ve OOP**
-- **CPP Module 00 - 04 (80-90/100):**  
-  Nesne yönelimli programlamaya (OOP) giriş yaptım.  
-  Bellek yönetimi, sınıflar, kalıtım, polimorfizm gibi konuları kapsıyor.  
+### 💎 C++ & OOP
+- **CPP Modules 00–04 (80–90/100):** Intro to Object-Oriented Programming in C++.
+  Covered topics like memory management, classes, inheritance, and polymorphism.
+
