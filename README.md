@@ -23,15 +23,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
  
-<!-- Görsel -->
+
 <p style="text-align: right; margin: 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" />
 </p>
 
-<!-- Tablo başlığı -->
+
 <h3 align="left">🏆 42 Projects Progress:</h3>
 
-<!-- Tablo -->
 <table>
   <thead>
     <tr><th>#</th><th>Proje Adı</th><th>Not</th><th>Link</th></tr>
