@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/github/last-commit/ahmethsnl/ahmethsnl?style=flat" alt="Last Commit" />
   </a>
 </p>
-
 <table>
   <tr>
     <td align="left" valign="top" width="60%">
@@ -27,7 +26,6 @@
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-        <!-- Diğer ikonları buraya ekleyebilirsin -->
       </p>
     </td>
     <td align="right" valign="top" width="40%">
