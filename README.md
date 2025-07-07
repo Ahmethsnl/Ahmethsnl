@@ -23,27 +23,36 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" /></p>
+<!-- Görsel -->
+<p style="text-align: left; margin: 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" />
+</p>
 
-<h3 align="left">🏆 42 Projects Progress:
+<!-- Tablo başlığı -->
+<h3 align="left">🏆 42 Projects Progress:</h3>
 
-| #  | Proje Adı        | Puan |
-|----|-----------------|------|
-| #  | Proje           | Not | Link                                               |
-| 1  | [Libft](https://github.com/Ahmethsnl/42-libft)           | 125 | [Repo](https://github.com/Ahmethsnl/42-libft)      |
-| 2  | [Ft_printf](https://github.com/Ahmethsnl/42-printf)       | 100 | [Repo](https://github.com/Ahmethsnl/42-printf)     |
-| 3  | [Get_next_line](https://github.com/Ahmethsnl/42-get-next-line) | 125 | [Repo](https://github.com/Ahmethsnl/42-get-next-line) |
-| 4  | [Minitalk](https://github.com/Ahmethsnl/42-Minitalk)        | 100 | [Repo](https://github.com/Ahmethsnl/42-Minitalk)    |
-| 5  | [So_long](https://github.com/Ahmethsnl/42-so-long)         | 110 | [Repo](https://github.com/Ahmethsnl/42-so-long)     |
-| 6  | [Push_swap](https://github.com/Ahmethsnl/42-push-swap)     | 90  | [Repo](https://github.com/Ahmethsnl/42-push-swap)   |
-| 7  | [Minishell](https://github.com/Ahmethsnl/42-minishell)     | 100 | [Repo](https://github.com/Ahmethsnl/42-minishell)   |
-| 8  | [CPP Module 00](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_00) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_00) |
-| 9  | [CPP Module 01](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_01) | 90  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_01) |
-| 10 | [CPP Module 02](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_02) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_02) |
-| 11 | [CPP Module 03](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_03) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_03) |
-| 12 | [CPP Module 04](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_04) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_04) |
-| 13 | [Cub3D](https://github.com/Ahmethsnl/cub3d)           | 100 | [Repo](https://github.com/Ahmethsnl/cub3d)          |
-</h3>
+<!-- Tablo -->
+<table>
+  <thead>
+    <tr><th>#</th><th>Proje Adı</th><th>Not</th><th>Link</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Libft</td><td>125</td><td><a href="https://github.com/Ahmethsnl/42-libft">Repo</a></td></tr>
+    <tr><td>2</td><td>Ft_printf</td><td>100</td><td><a href="https://github.com/Ahmethsnl/42-printf">Repo</a></td></tr>
+    <tr><td>3</td><td>Get_next_line</td><td>125</td><td><a href="https://github.com/Ahmethsnl/42-get-next-line">Repo</a></td></tr>
+    <tr><td>4</td><td>Minitalk</td><td>100</td><td><a href="https://github.com/Ahmethsnl/42-Minitalk">Repo</a></td></tr>
+    <tr><td>5</td><td>So_long</td><td>110</td><td><a href="https://github.com/Ahmethsnl/42-so-long">Repo</a></td></tr>
+    <tr><td>6</td><td>Push_swap</td><td>90</td><td><a href="https://github.com/Ahmethsnl/42-push-swap">Repo</a></td></tr>
+    <tr><td>7</td><td>Minishell</td><td>100</td><td><a href="https://github.com/Ahmethsnl/42-minishell">Repo</a></td></tr>
+    <tr><td>8</td><td>CPP Module 00</td><td>80</td><td><a href="https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_00">Repo</a></td></tr>
+    <tr><td>9</td><td>CPP Module 01</td><td>90</td><td><a href="https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_01">Repo</a></td></tr>
+    <tr><td>10</td><td>CPP Module 02</td><td>80</td><td><a href="https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_02">Repo</a></td></tr>
+    <tr><td>11</td><td>CPP Module 03</td><td>80</td><td><a href="https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_03">Repo</a></td></tr>
+    <tr><td>12</td><td>CPP Module 04</td><td>80</td><td><a href="https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_04">Repo</a></td></tr>
+    <tr><td>13</td><td>Cub3D</td><td>100</td><td><a href="https://github.com/Ahmethsnl/cub3d">Repo</a></td></tr>
+  </tbody>
+</table>
+
 
 ## 🛠️ Projects Overview
 Each project focuses on a different area and has helped me grow as a developer. Here are some highlights:
