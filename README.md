@@ -7,19 +7,23 @@
     <img src="https://img.shields.io/github/last-commit/ahmethsnl/ahmethsnl?style=flat" alt="Last Commit" />
   </a>
 </p>
+
+- 🌱 I’m currently learning **C, C++, Python**
+
+- 📫 How to reach me **asanli018@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ahmethsnl/](https://www.linkedin.com/in/ahmethsnl/)
+
 <table>
   <tr>
-    <td align="left" valign="top" width="60%">
-      - 🌱 I’m currently learning **C, C++**  
-      - 📫 How to reach me: **asanli018@gmail.com**  
-      - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ahmethsnl/)
+    <td align="left" valign="top">
       <h3>Connect with me:</h3>
       <p>
         <a href="https://linkedin.com/in/ahmethsnl" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmethsnl" height="30" width="40" />
         </a>
         <a href="https://instagram.com/ahmet.hsnl" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmet.hsnl" height="30" width="40" />
         </a>
       </p>
       <h3>Languages and Tools:</h3>
@@ -28,11 +32,12 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
       </p>
     </td>
-    <td align="right" valign="top" width="40%">
+    <td align="right" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" />
     </td>
   </tr>
 </table>
+
 
 <h3 align="left">🏆 42 Projects Progress:</h3>
 
@@ -56,6 +61,7 @@
     <tr><td>13</td><td>Cub3D</td><td>100</td><td><a href="https://github.com/Ahmethsnl/cub3d">Repo</a></td></tr>
   </tbody>
 </table>
+
 
 ## 🛠️ Projects Overview
 Each project focuses on a different area and has helped me grow as a developer. Here are some highlights:
