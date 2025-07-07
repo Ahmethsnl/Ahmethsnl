@@ -25,9 +25,8 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" /></p>
 
+<h3 align="left">🏆 42 Projects Progress:</h3>
 
-
-# 🏆 42 Projects Progress
 | #  | Proje Adı        | Puan |
 |----|-----------------|------|
 | #  | Proje           | Not | Link                                               |
