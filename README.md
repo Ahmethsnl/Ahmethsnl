@@ -25,7 +25,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" /></p>
 
-<h3 align="left">🏆 42 Projects Progress:</h3>
+<h3 align="left">🏆 42 Projects Progress:
 
 | #  | Proje Adı        | Puan |
 |----|-----------------|------|
@@ -43,7 +43,7 @@
 | 11 | [CPP Module 03](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_03) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_03) |
 | 12 | [CPP Module 04](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_04) | 80  | [Repo](https://github.com/Ahmethsnl/cpp_modules/tree/main/cpp_04) |
 | 13 | [Cub3D](https://github.com/Ahmethsnl/cub3d)           | 100 | [Repo](https://github.com/Ahmethsnl/cub3d)          |
-
+</h3>
 
 ## 🛠️ Projects Overview
 Each project focuses on a different area and has helped me grow as a developer. Here are some highlights:
