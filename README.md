@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **C, C++, Python**
+- 🌱 I’m currently learning **C, C++**
 
 - 📫 How to reach me **asanli018@gmail.com**
 
