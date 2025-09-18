@@ -15,7 +15,7 @@
 - 📫 How to reach me: **asanli018@gmail.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ahmethsnl/)
 
-<p align="center">y
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" />
 </p>
 
