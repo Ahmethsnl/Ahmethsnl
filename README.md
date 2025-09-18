@@ -56,6 +56,16 @@ ahmethsnl/
 │   ├── cpp_03/     (80/100)  - Advanced OOP concepts.
 │   ├── cpp_04/     (80/100)  - Templates and STL.
 ├── cub3d/          (100/100) - A basic raycasting engine.
+├── BSQ/            - Biggest Square - Personal - C.
+├── Game-of-Life/   - Personal - C.
+├── wesa_shell/     - Personal - BASH.
+├── projectstarter/ - Personal - BASH.
+├── wcleaner/       - Personal - BASH.
+├── Pomodoro Timer/ - Personal - BASH.
+├── Rental House/   - HyperCasual - Personal - UNITY - C#.
+├── Slayer/         - Personal - UNITY - C#.
+├── Wesa Utils/     - Personal - UNITY - C#.
+├── Piscine Reloaded/ - 42.
 ```
 
 ---
