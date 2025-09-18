@@ -27,6 +27,9 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
       </p>
     </td>
+    <td align="center" valign="top" width="33%">
+      <h3>📊 Most Used Languages</h3>
+      <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" />
       </p>
     </td>
