@@ -15,25 +15,35 @@
 - 📫 How to reach me: **asanli018@gmail.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ahmethsnl/)
 
-<p align="center">
+<p align="center">y
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" />
 </p>
 
 ---
 
-### 🌐 Connect with Me & 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://linkedin.com/in/ahmethsnl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ahmet.hsnl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>🛠️ Languages and Tools</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>🌐 Connect with Me</h3>
+      <p>
+        <a href="https://linkedin.com/in/ahmethsnl" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+        <a href="https://instagram.com/ahmet.hsnl" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
