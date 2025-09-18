@@ -20,6 +20,7 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <h3>🛠️ Languages and Tools</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
@@ -27,7 +28,6 @@
       </p>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>📊 Most Used Languages</h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethsnl&show_icons=true&locale=en&layout=compact" alt="Ahmet Şanlı" />
       </p>
