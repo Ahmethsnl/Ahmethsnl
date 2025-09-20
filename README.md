@@ -66,11 +66,12 @@ ahmethsnl/
 │   ├── cpp_02/       (80/100)  - Inheritance and polymorphism.
 │   ├── cpp_03/       (80/100)  - Advanced OOP concepts.
 │   ├── cpp_04/       (80/100)  - Templates and STL.
-│   ├── cpp_06/       (80/100)  - Casts, Serialization, TypeInfo, Containers.
-│   ├── cpp_07/       (80/100)  - Templates, Iterators, Algorithms.
-│   ├── cpp_08/       (80/100)  - More STL, MutantStack, EasyFind, Span.
-├── cub3d/            (100/100) - A basic raycasting engine.
-├── 42-IRC/           (100/100) - Modern C++98 IRC server.
+    ├── cpp_05/       (?/100)  - Exceptions .
+│   ├── cpp_06/       (?/100)  - Casts, Serialization, TypeInfo, Containers.
+│   ├── cpp_07/       (?/100)  - Templates, Iterators, Algorithms.
+│   ├── cpp_08/       (?/100)  - More STL, MutantStack, EasyFind, Span.
+├── cub3d/            (?/100) - A basic raycasting engine.
+├── 42-IRC/           (?/100) - Modern C++98 IRC server.
 ├── BSQ/              - Biggest Square - Personal - C.
 ├── Game-of-Life/     - Personal - C.
 ├── wesa_shell/       - Personal - BASH.
