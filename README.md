@@ -50,37 +50,43 @@
 
 ### 🏆 42 Projects Progress
 
+
 ```plaintext
 ahmethsnl/
-├── 42-libft/       (125/100) - Recreated the standard C library from scratch.
-├── 42-printf/      (100/100) - Custom implementation of the printf function.
+├── 42-libft/         (125/100) - Recreated the standard C library from scratch.
+├── 42-printf/        (100/100) - Custom implementation of the printf function.
 ├── 42-get-next-line/ (125/100) - Function to read files line by line.
-├── 42-Minitalk/    (100/100) - Message communication using Unix signals.
-├── 42-so-long/     (110/100) - A simple 2D game using MLX.
-├── 42-push-swap/   (90/100)  - Sorting algorithm project.
-├── 42-minishell/   (100/100) - A small shell implementation.
+├── 42-Minitalk/      (100/100) - Message communication using Unix signals.
+├── 42-so-long/       (110/100) - A simple 2D game using MLX.
+├── 42-push-swap/     (90/100)  - Sorting algorithm project.
+├── 42-minishell/     (100/100) - A small shell implementation.
 ├── cpp_modules/
-│   ├── cpp_00/     (80/100)  - Intro to OOP in C++.
-│   ├── cpp_01/     (90/100)  - Memory management and classes.
-│   ├── cpp_02/     (80/100)  - Inheritance and polymorphism.
-│   ├── cpp_03/     (80/100)  - Advanced OOP concepts.
-│   ├── cpp_04/     (80/100)  - Templates and STL.
-├── cub3d/          (100/100) - A basic raycasting engine.
-├── BSQ/            - Biggest Square - Personal - C.
-├── Game-of-Life/   - Personal - C.
-├── wesa_shell/     - Personal - BASH.
-├── projectstarter/ - Personal - BASH.
-├── wcleaner/       - Personal - BASH.
-├── Pomodoro Timer/ - Personal - BASH.
-├── Rental House/   - HyperCasual - Personal - UNITY - C#.
-├── Slayer/         - Personal - UNITY - C#.
-├── Wesa Utils/     - Personal - UNITY - C#.
+│   ├── cpp_00/       (80/100)  - Intro to OOP in C++.
+│   ├── cpp_01/       (90/100)  - Memory management and classes.
+│   ├── cpp_02/       (80/100)  - Inheritance and polymorphism.
+│   ├── cpp_03/       (80/100)  - Advanced OOP concepts.
+│   ├── cpp_04/       (80/100)  - Templates and STL.
+│   ├── cpp_06/       (80/100)  - Casts, Serialization, TypeInfo, Containers.
+│   ├── cpp_07/       (80/100)  - Templates, Iterators, Algorithms.
+│   ├── cpp_08/       (80/100)  - More STL, MutantStack, EasyFind, Span.
+├── cub3d/            (100/100) - A basic raycasting engine.
+├── ft_irc/           (100/100) - Modern C++98 IRC server.
+├── BSQ/              - Biggest Square - Personal - C.
+├── Game-of-Life/     - Personal - C.
+├── wesa_shell/       - Personal - BASH.
+├── projectstarter/   - Personal - BASH.
+├── wcleaner/         - Personal - BASH.
+├── Pomodoro Timer/   - Personal - BASH.
+├── Rental House/     - HyperCasual - Personal - UNITY - C#.
+├── Slayer/           - Personal - UNITY - C#.
+├── Wesa Utils/       - Personal - UNITY - C#.
 ├── Piscine Reloaded/ - 42.
 ```
 
 ---
 
 ### 📂 Repository Overview
+
 
 - [**42-libft**](https://github.com/Ahmethsnl/42-libft): Recreated the standard C library from scratch.
 - [**42-printf**](https://github.com/Ahmethsnl/42-printf): Custom implementation of the `printf` function.
@@ -89,5 +95,6 @@ ahmethsnl/
 - [**42-so-long**](https://github.com/Ahmethsnl/42-so-long): A simple 2D game using MLX.
 - [**42-push-swap**](https://github.com/Ahmethsnl/42-push-swap): Sorting algorithm project.
 - [**42-minishell**](https://github.com/Ahmethsnl/42-minishell): A small shell implementation.
-- [**cpp_modules**](https://github.com/Ahmethsnl/cpp_modules): Intro to Object-Oriented Programming in C++.
+- [**cpp_modules**](https://github.com/Ahmethsnl/cpp_modules): Intro to Object-Oriented Programming in C++ (cpp_00 - cpp_08).
 - [**cub3d**](https://github.com/Ahmethsnl/cub3d): A basic raycasting engine inspired by Wolfenstein 3D.
+- [**ft_irc**](https://github.com/Ahmethsnl/ft_irc): Modern C++98 IRC server.
