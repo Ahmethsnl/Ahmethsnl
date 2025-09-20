@@ -60,7 +60,7 @@ ahmethsnl/
 ├── 42-so-long/       (110/100) - A simple 2D game using MLX.
 ├── 42-push-swap/     (90/100)  - Sorting algorithm project.
 ├── 42-minishell/     (100/100) - A small shell implementation.
-├── cpp_modules/
+├── 42-cpp_modules/
 │   ├── cpp_00/       (80/100)  - Intro to OOP in C++.
 │   ├── cpp_01/       (90/100)  - Memory management and classes.
 │   ├── cpp_02/       (80/100)  - Inheritance and polymorphism.
@@ -70,7 +70,7 @@ ahmethsnl/
 │   ├── cpp_07/       (80/100)  - Templates, Iterators, Algorithms.
 │   ├── cpp_08/       (80/100)  - More STL, MutantStack, EasyFind, Span.
 ├── cub3d/            (100/100) - A basic raycasting engine.
-├── ft_irc/           (100/100) - Modern C++98 IRC server.
+├── 42-IRC/           (100/100) - Modern C++98 IRC server.
 ├── BSQ/              - Biggest Square - Personal - C.
 ├── Game-of-Life/     - Personal - C.
 ├── wesa_shell/       - Personal - BASH.
@@ -95,6 +95,6 @@ ahmethsnl/
 - [**42-so-long**](https://github.com/Ahmethsnl/42-so-long): A simple 2D game using MLX.
 - [**42-push-swap**](https://github.com/Ahmethsnl/42-push-swap): Sorting algorithm project.
 - [**42-minishell**](https://github.com/Ahmethsnl/42-minishell): A small shell implementation.
-- [**cpp_modules**](https://github.com/Ahmethsnl/cpp_modules): Intro to Object-Oriented Programming in C++ (cpp_00 - cpp_08).
+- [**42-cpp_modules**](https://github.com/Ahmethsnl/42-cpp_modules): Intro to Object-Oriented Programming in C++ (cpp_00 - cpp_08).
 - [**cub3d**](https://github.com/Ahmethsnl/cub3d): A basic raycasting engine inspired by Wolfenstein 3D.
-- [**ft_irc**](https://github.com/Ahmethsnl/ft_irc): Modern C++98 IRC server.
+- [**42-IRC**](https://github.com/Ahmethsnl/42-IRC): Modern C++98 IRC server.
