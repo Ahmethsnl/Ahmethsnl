@@ -74,14 +74,14 @@ ahmethsnl/
 ├── cub3d/            (?/100)   - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
 ├── Game-of-Life/     (SUCCESS) - Personal - C.
-├── BSQ/              - Biggest Square - Personal - C.
-├── wesa_shell/       - Personal - BASH.
-├── projectstarter/   - Personal - BASH.
-├── wcleaner/         - Personal - BASH.
-├── Pomodoro Timer/   - Personal - BASH.
-├── Rental House/     - HyperCasual - Personal - UNITY - C#.
-├── Slayer/           - Personal - UNITY - C#.
-├── Wesa Utils/       - Personal - UNITY - C#.
+├── BSQ/                        - Biggest Square - Personal - C.
+├── wesa_shell/                 - Personal - BASH.
+├── projectstarter/             - Personal - BASH.
+├── wcleaner/                   - Personal - BASH.
+├── Pomodoro Timer/             - Personal - BASH.
+├── Rental House/               - HyperCasual - Personal - UNITY - C#.
+├── Slayer/                     - Personal - UNITY - C#.
+├── Wesa Utils/                 - Personal - UNITY - C#.
 ```
 
 ---
