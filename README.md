@@ -71,7 +71,7 @@ ahmethsnl/
 │   ├── cpp_06/       (?/100)   - Casts, Serialization, TypeInfo, Containers.
 │   ├── cpp_07/       (?/100)   - Templates, Iterators, Algorithms.
 │   ├── cpp_08/       (?/100)   - More STL, MutantStack, EasyFind, Span.
-├── cub3d/            (?/100)   - A basic raycasting engine.
+├── cub3d/            (100/100) - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
 ├── Game-of-Life/     (SUCCESS) - Personal - C.
 ├── BSQ/                        - Biggest Square - Personal - C.
