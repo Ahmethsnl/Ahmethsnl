@@ -73,8 +73,8 @@ ahmethsnl/
 │   ├── cpp_08/       (?/100)  - More STL, MutantStack, EasyFind, Span.
 ├── cub3d/            (?/100) - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
+├── Game-of-Life/     (SUCCESS)- Personal - C.
 ├── BSQ/              - Biggest Square - Personal - C.
-├── Game-of-Life/     - Personal - C.
 ├── wesa_shell/       - Personal - BASH.
 ├── projectstarter/   - Personal - BASH.
 ├── wcleaner/         - Personal - BASH.
