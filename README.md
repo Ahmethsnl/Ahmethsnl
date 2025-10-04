@@ -17,7 +17,7 @@
 - 🔍 For more details about my education, certificates and interests, see the **[Profile Details](#profile-details)** section below.
 
 
-📜 Profile Details (Click to Expand)
+### 📜 Profile Details
 
 ```yaml
 located_in: Istanbul
