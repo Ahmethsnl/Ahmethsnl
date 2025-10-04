@@ -88,17 +88,17 @@ ahmethsnl/
 │   ├── cpp_01/       (90/100)  - Memory management and classes.
 │   ├── cpp_02/       (80/100)  - Inheritance and polymorphism.
 │   ├── cpp_03/       (80/100)  - Advanced OOP concepts.
-│   ├── cpp_04/       (80/100)  - Templates and STL.
+│   ├── cpp_04/       (80/100)  - Polymorphism and abstract classes.
 |   ├── cpp_05/       (?/100)   - Exceptions.
 │   ├── cpp_06/       (?/100)   - Casts, Serialization, TypeInfo, Containers.
 │   ├── cpp_07/       (?/100)   - Templates, Iterators, Algorithms.
 │   ├── cpp_08/       (?/100)   - More STL, MutantStack, EasyFind, Span.
-│   ├── cpp_09/       (?/100)   - Implemented custom containers (Vector, Map) and advanced algorithms.
+│   ├── cpp_09/       (?/100)   - Advanced parsing and algorithmic projects using STL containers.
 ├── cub3d/            (100/100) - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
-├── 42-Inception/     (?/100)   - Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
+├── 42-Inception/     (?/100)   - Docker-based infrastructure and service orchestration project.
 ├── Game-of-Life/     (SUCCESS) - Personal - C.
-├── BSQ/              (SUCCESS) - Biggest Square - Personal - C.
+├── BSQ/              (SUCCESS) - Largest square algorithm in a map.
 ├── wesa_shell/                 - Personal - BASH.
 ├── projectstarter/             - Personal - BASH.
 ├── wcleaner/                   - Personal - BASH.
