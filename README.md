@@ -14,7 +14,9 @@
   <b>Email:</b> asanli018@gmail.com • 
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ahmethsnl/">ahmethsnl</a>
 </p>
+
 ---
+
 <h3 align="center">📜 Profile Details</h3>
 
 ```yaml
