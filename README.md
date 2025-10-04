@@ -18,7 +18,7 @@
 
 
 <details>
-<summary>📜 Profile Details (Click to Expand)  <img src="https://img.icons8.com/emoji/20/000000/magnifying-glass-tilted-left.png"/> </summary>
+<summary>**📜 Profile Details (Click to Expand)** </summary>
 
 ```yaml
 located_in: Istanbul
