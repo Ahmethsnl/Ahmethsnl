@@ -120,3 +120,5 @@ ahmethsnl/
 - [**42-IRC**](https://github.com/Ahmethsnl/42-IRC): Modern C++98 IRC server.
 - [**42-Inception**](https://github.com/Ahmethsnl/42-Inception): Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
 </details>
+
+<p align="center">⚡ Always building. Always learning.</p>
