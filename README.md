@@ -112,9 +112,7 @@ interests:
     "Unity",
     "Algorithms",
     "AI",
-    "Blockchain",
     "Cybersecurity",
     "Cloud Computing",
-    "Data Science"
   ]
 </details> ```
