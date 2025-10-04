@@ -8,6 +8,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="center">📬 How to Reach Me</h3>
 
 <p align="center">
