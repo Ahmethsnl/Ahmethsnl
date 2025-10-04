@@ -11,6 +11,15 @@
 
 ---
 
+<p align="center">
+<img src="..." />
+<a href="...">
+...
+</a>
+</p>
+
+<br>
+
 <h3 align="center">📬 How to Reach Me</h3>
 
 <p align="center">
@@ -66,7 +75,9 @@ interests:
 
 ```
 
+
 💡 *Configuration-style format used intentionally to reflect structured thinking*
+
 
 ---
 
@@ -78,22 +89,22 @@ ahmethsnl/
 ├── Piscine Reloaded/ (100/100) - 42.
 ├── 42-libft/         (125/100) - Recreated the standard C library from scratch.
 ├── 42-printf/        (100/100) - Custom implementation of the printf function.
-├── 42-get-next-line/ (125/100) - Function to read files line by line.
+├── 42-get-next-line/ (125/100) - Reads files line by line.
 ├── 42-Minitalk/      (100/100) - Message communication using Unix signals.
-├── 42-so-long/       (110/100) - A simple 2D game using MLX.
+├── 42-so-long/       (110/100) - A simple 2D MLX-based game.
 ├── 42-push-swap/     (90/100)  - Sorting algorithm project.
-├── 42-minishell/     (100/100) - A small shell implementation.
+├── 42-minishell/     (100/100) - A minimal UNIX shell implementation.
 ├── 42-cpp_modules/
 │   ├── cpp_00/       (80/100)  - Intro to OOP in C++.
 │   ├── cpp_01/       (90/100)  - Memory management and classes.
 │   ├── cpp_02/       (80/100)  - Inheritance and polymorphism.
 │   ├── cpp_03/       (80/100)  - Advanced OOP concepts.
 │   ├── cpp_04/       (80/100)  - Polymorphism and abstract classes.
-|   ├── cpp_05/       (?/100)   - Exceptions.
+│   ├── cpp_05/       (?/100)   - Exceptions.
 │   ├── cpp_06/       (?/100)   - Casts, Serialization, TypeInfo, Containers.
 │   ├── cpp_07/       (?/100)   - Templates, Iterators, Algorithms.
 │   ├── cpp_08/       (?/100)   - More STL, MutantStack, EasyFind, Span.
-│   ├── cpp_09/       (?/100)   - Advanced parsing and algorithmic projects using STL containers.
+│   ├── cpp_09/       (?/100)   - Advanced STL usage and algorithms.
 ├── cub3d/            (100/100) - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
 ├── 42-Inception/     (?/100)   - Docker-based infrastructure and service orchestration project.
@@ -114,15 +125,16 @@ ahmethsnl/
 
 - [**42-libft**](https://github.com/Ahmethsnl/42-libft): Recreated the standard C library from scratch.
 - [**42-printf**](https://github.com/Ahmethsnl/42-printf): Custom implementation of the `printf` function.
-- [**42-get-next-line**](https://github.com/Ahmethsnl/42-get-next-line): Function to read files line by line.
-- [**42-Minitalk**](https://github.com/Ahmethsnl/42-Minitalk): Message communication using Unix signals.
+- [**42-get-next-line**](https://github.com/Ahmethsnl/42-get-next-line): Reads files line by line
+- [**42-Minitalk**](https://github.com/Ahmethsnl/42-Minitalk): Implements message communication using Unix signals
 - [**42-so-long**](https://github.com/Ahmethsnl/42-so-long): A simple 2D game using MLX.
 - [**42-push-swap**](https://github.com/Ahmethsnl/42-push-swap): Sorting algorithm project.
 - [**42-minishell**](https://github.com/Ahmethsnl/42-minishell): A small shell implementation.
 - [**42-cpp_modules**](https://github.com/Ahmethsnl/42-cpp_modules): Intro to Object-Oriented Programming in C++ (cpp_00 - cpp_08).
 - [**cub3d**](https://github.com/Ahmethsnl/cub3d): A basic raycasting engine inspired by Wolfenstein 3D.
 - [**42-IRC**](https://github.com/Ahmethsnl/42-IRC): Modern C++98 IRC server.
-- [**42-Inception**](https://github.com/Ahmethsnl/42-Inception): Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
+- [**42-Inception**](https://github.com/Ahmethsnl/42-Inception): Docker-based system administration project focused on infrastructure and service orchestration.
 </details>
 
 <p align="center">⚡ Always building. Always learning.</p>
+<p align="center"><i>Code. Break. Learn. Repeat.</i></p>
