@@ -71,10 +71,11 @@ ahmethsnl/
 - [**cub3d**](https://github.com/Ahmethsnl/cub3d): A basic raycasting engine inspired by Wolfenstein 3D.
 - [**42-IRC**](https://github.com/Ahmethsnl/42-IRC): Modern C++98 IRC server.
 
-<details> <summary>📜 Profile Details (Click to Expand)</summary>
-```
-yaml
-  located_in: Istanbul
+<details>
+<summary>📜 Profile Details (Click to Expand)</summary>
+
+```yaml
+located_in: Istanbul
 education:
   [
     "42 Kocaeli - Software Developer",
@@ -116,5 +117,4 @@ interests:
     "Cloud Computing",
     "Data Science"
   ]
-
 </details> ```
