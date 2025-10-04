@@ -22,9 +22,9 @@
 
 ---
 
-<br>
-
 <h3 align="center">📜 Profile Details</h3>
+
+<br>
 
 ```yaml
 located_in: Istanbul
