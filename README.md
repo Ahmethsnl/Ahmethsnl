@@ -56,9 +56,8 @@ ahmethsnl/
 ```
 
 ---
-
-### 📂 Repository Overview
-
+<details>
+<summary> 📂 Repository Overview (Click to Expand)</summary>
 
 - [**42-libft**](https://github.com/Ahmethsnl/42-libft): Recreated the standard C library from scratch.
 - [**42-printf**](https://github.com/Ahmethsnl/42-printf): Custom implementation of the `printf` function.
@@ -71,7 +70,8 @@ ahmethsnl/
 - [**cub3d**](https://github.com/Ahmethsnl/cub3d): A basic raycasting engine inspired by Wolfenstein 3D.
 - [**42-IRC**](https://github.com/Ahmethsnl/42-IRC): Modern C++98 IRC server.
 - [**42-Inception**](https://github.com/Ahmethsnl/42-Inception): Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
-
+</details>
+```
 <details>
 <summary>📜 Profile Details (Click to Expand)</summary>
 
