@@ -12,17 +12,15 @@
 ### 📜 Profile Details
 
 ```yaml
-### 📜 Profile Details
-
-**Located in:** Istanbul  
-**LinkedIn:** [ahmethsnl](https://www.linkedin.com/in/ahmethsnl/)  
-**Email:** [asanli018@gmail.com](mailto:asanli018@gmail.com)  
-
-**Education:**
-- 42 Kocaeli – Software Developer  
-- Istanbul University – Management Information Systems  
-
-**Certificates:**
+located_in: Istanbul
+LinkedIn: https://www.linkedin.com/in/ahmethsnl/
+How to reach me: **asanli018@gmail.com**
+education:
+  [
+    "42 Kocaeli - Software Developer",
+    "Istanbul University - Management Information Systems"
+  ]
+certificates:
   [
     "Introduction to Cybersecurity - Cisco Networking Academy (Jun 2024)",
     "Agility at IBM (May 2024)",
