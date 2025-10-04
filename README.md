@@ -3,9 +3,9 @@
 <p align="center"><i>Focused on low-level systems, performance, and clean design.</i></p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ahmethsnl&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/In Progressusername=ahmethsnl&label=Profile%20Views&color=0e75b6&style=flat" />
   <a href="https://github.com/ahmethsnl/ahmethsnl/commits">
-    <img src="https://img.shields.io/github/last-commit/ahmethsnl/ahmethsnl?style=flat" alt="Last Commit" />
+    <img src="https://img.shields.io/github/last-commit/ahmethsnl/ahmethsnlIn Progressstyle=flat" alt="Last Commit" />
   </a>
 </p>
 
@@ -94,14 +94,14 @@ ahmethsnl/
 │   ├── cpp_02/       (80/100)  - Inheritance and polymorphism.
 │   ├── cpp_03/       (80/100)  - Advanced OOP concepts.
 │   ├── cpp_04/       (80/100)  - Polymorphism and abstract classes.
-│   ├── cpp_05/       (?/100)   - Exceptions.
-│   ├── cpp_06/       (?/100)   - Casts, Serialization, TypeInfo, Containers.
-│   ├── cpp_07/       (?/100)   - Templates, Iterators, Algorithms.
-│   ├── cpp_08/       (?/100)   - More STL, MutantStack, EasyFind, Span.
-│   ├── cpp_09/       (?/100)   - Advanced STL usage and algorithms.
+│   ├── cpp_05/       (In Progress/100)   - Exceptions.
+│   ├── cpp_06/       (In Progress/100)   - Casts, Serialization, TypeInfo, Containers.
+│   ├── cpp_07/       (In Progress/100)   - Templates, Iterators, Algorithms.
+│   ├── cpp_08/       (In Progress/100)   - More STL, MutantStack, EasyFind, Span.
+│   ├── cpp_09/       (In Progress/100)   - Advanced STL usage and algorithms.
 ├── cub3d/            (100/100) - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
-├── 42-Inception/     (?/100)   - Docker-based infrastructure and service orchestration project.
+├── 42-Inception/     (In Progress/100)   - Docker-based infrastructure and service orchestration project.
 ├── Game-of-Life/     (SUCCESS) - Personal - C.
 ├── BSQ/              (SUCCESS) - Largest square algorithm in a map.
 ├── wesa_shell/                 - Personal - BASH.
