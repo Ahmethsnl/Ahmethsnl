@@ -70,7 +70,7 @@ ahmethsnl/
 - [**42-cpp_modules**](https://github.com/Ahmethsnl/42-cpp_modules): Intro to Object-Oriented Programming in C++ (cpp_00 - cpp_08).
 - [**cub3d**](https://github.com/Ahmethsnl/cub3d): A basic raycasting engine inspired by Wolfenstein 3D.
 - [**42-IRC**](https://github.com/Ahmethsnl/42-IRC): Modern C++98 IRC server.
-- [**42-IRC**](https://github.com/Ahmethsnl/42-Inception): Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
+- [**42-Inception**](https://github.com/Ahmethsnl/42-Inception): Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
 
 <details>
 <summary>📜 Profile Details (Click to Expand)</summary>
