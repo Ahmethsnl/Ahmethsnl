@@ -11,13 +11,6 @@
 
 ---
 
-<p align="center">
-<img src="..." />
-<a href="...">
-...
-</a>
-</p>
-
 <br>
 
 <h3 align="center">📬 How to Reach Me</h3>
