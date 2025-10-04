@@ -18,7 +18,7 @@
 
 
 <details>
-<summary> ### 📜 Profile Details (Click to Expand)</summary>
+### <summary>📜 Profile Details (Click to Expand)</summary>
 
 ```yaml
 located_in: Istanbul
