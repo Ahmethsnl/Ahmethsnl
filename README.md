@@ -14,8 +14,6 @@
 - 🌱 I’m currently learning **C, C++**
 - 📫 How to reach me: **asanli018@gmail.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ahmethsnl/)
-- 🔍 For more details about my education, certificates and interests, see the **[Profile Details](#profile-details)** section below.
-
 
 ### 📜 Profile Details
 
