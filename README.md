@@ -10,9 +10,9 @@
 
 ---
 <h3 align="center">📜 Profile Details</h3>
-
+How to reach me:
+**Email:** asanli018@gmail.com
 **LinkedIn:** [ahmethsnl](https://www.linkedin.com/in/ahmethsnl/)  
-**Email:** [asanli018@gmail.com](mailto:asanli018@gmail.com)  
 
 ```yaml
 located_in: Istanbul
