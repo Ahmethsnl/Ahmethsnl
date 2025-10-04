@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Ahmet Şanlı</h1>
 <h3 align="center">A Passionate Developer from Istanbul/Turkey</h3>
+<p align="center"><i>Focused on low-level systems, performance, and clean design.</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmethsnl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
