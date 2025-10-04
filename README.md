@@ -14,7 +14,7 @@
 <h3 align="center">📬 How to Reach Me</h3>
 
 <p align="center">
-  <b>Email:</b> asanli018@gmail.com • 
+  <b>Email:</b> asanli018@gmail.com &nbsp; | &nbsp;
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ahmethsnl/">ahmethsnl</a>
 </p>
 
