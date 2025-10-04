@@ -11,9 +11,9 @@
 
 ---
 
-<br>
-
 <h3 align="center">📬 How to Reach Me</h3>
+
+<br>
 
 <p align="center">
   <b>Email:</b> asanli018@gmail.com &nbsp; | &nbsp;
