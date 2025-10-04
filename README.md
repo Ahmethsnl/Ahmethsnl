@@ -18,7 +18,7 @@
 
 
 <details>
-### <summary>📜 Profile Details (Click to Expand)</summary>
+<summary>📜 Profile Details (Click to Expand)</summary>
 
 ```yaml
 located_in: Istanbul
@@ -106,7 +106,7 @@ ahmethsnl/
 
 ---
 <details>
-<summary> ### 📂 Repository Overview (Click to Expand)</summary>
+<summary> 📂 Repository Overview (Click to Expand)</summary>
 
 - [**42-libft**](https://github.com/Ahmethsnl/42-libft): Recreated the standard C library from scratch.
 - [**42-printf**](https://github.com/Ahmethsnl/42-printf): Custom implementation of the `printf` function.
