@@ -11,10 +11,9 @@
 <h3 align="center">📬 How to Reach Me</h3>
 
 <p align="center">
-  <a href="asanli018@gmail.com"><b>Email:</b> asanli018@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/ahmethsnl/"><b>LinkedIn:</b> ahmethsnl</a>
+  <b>Email:</b> asanli018@gmail.com • 
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ahmethsnl/">ahmethsnl</a>
 </p>
-
 ---
 <h3 align="center">📜 Profile Details</h3>
 
