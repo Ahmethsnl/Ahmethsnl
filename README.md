@@ -17,8 +17,7 @@
 - 🔍 For more details about my education, certificates and interests, see the **[Profile Details](#profile-details)** section below.
 
 
-<details>
-<summary>📜 Profile Details (Click to Expand) </summary>
+📜 Profile Details (Click to Expand)
 
 ```yaml
 located_in: Istanbul
@@ -62,8 +61,6 @@ interests:
     "Cloud Computing",
   ]
 ```
-</details>
-
 
 ---
 
