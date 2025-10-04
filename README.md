@@ -66,7 +66,7 @@ interests:
 
 ```
 
-💡 *Configuration-style format used intentionally to reflect structured thinking.*
+💡 *Configuration-style format used intentionally to reflect structured thinking*
 
 ---
 
