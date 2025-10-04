@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmet Şanlı</h1>
-<h3 align="center">A Passionate Developer from Istanbul/Turkey</h3>
+<h3 align="center">Passionate Software Developer from Istanbul, Turkey</h3>
 <p align="center"><i>Focused on low-level systems, performance, and clean design.</i></p>
 
 <p align="center">
