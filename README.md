@@ -8,13 +8,15 @@
   </a>
 </p>
 
+<h3 align="center">📬 How to Reach Me</h3>
+
+<p align="center">
+  <a href="mailto:asanli018@gmail.com"><b>Email:</b> asanli018@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/ahmethsnl/"><b>LinkedIn:</b> ahmethsnl</a>
+</p>
+
 ---
 <h3 align="center">📜 Profile Details</h3>
-How to reach me:
-
-**Email:** asanli018@gmail.com
-
-**LinkedIn:** [ahmethsnl](https://www.linkedin.com/in/ahmethsnl/)  
 
 ```yaml
 located_in: Istanbul
