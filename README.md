@@ -61,7 +61,7 @@ interests:
     "Algorithms",
     "AI",
     "Cybersecurity",
-    "Cloud Computing",
+    "Cloud Computing"
   ]
 
 ```
@@ -95,7 +95,7 @@ ahmethsnl/
 │   ├── cpp_08/       (?/100)   - More STL, MutantStack, EasyFind, Span.
 ├── cub3d/            (100/100) - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
-├── 42-Inception/     (?)       - Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
+├── 42-Inception/     (?/100)   - Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
 ├── Game-of-Life/     (SUCCESS) - Personal - C.
 ├── BSQ/              (SUCCESS) - Biggest Square - Personal - C.
 ├── wesa_shell/                 - Personal - BASH.
