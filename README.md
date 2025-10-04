@@ -74,7 +74,7 @@ ahmethsnl/
 ├── cub3d/            (100/100) - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
 ├── Game-of-Life/     (SUCCESS) - Personal - C.
-├── BSQ/                        - Biggest Square - Personal - C.
+├── BSQ/              (SUCCESS) - Biggest Square - Personal - C.
 ├── wesa_shell/                 - Personal - BASH.
 ├── projectstarter/             - Personal - BASH.
 ├── wcleaner/                   - Personal - BASH.
