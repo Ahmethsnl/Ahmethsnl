@@ -9,16 +9,12 @@
 </p>
 
 ---
-
-### 🌱 About Me
-- 🌱 I’m currently learning **C, C++**
-- 📫 How to reach me: **asanli018@gmail.com**
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ahmethsnl/)
-
 ### 📜 Profile Details
 
 ```yaml
 located_in: Istanbul
+LinkedIn: https://www.linkedin.com/in/ahmethsnl/
+How to reach me: **asanli018@gmail.com**
 education:
   [
     "42 Kocaeli - Software Developer",
