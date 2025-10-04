@@ -93,6 +93,7 @@ ahmethsnl/
 │   ├── cpp_06/       (?/100)   - Casts, Serialization, TypeInfo, Containers.
 │   ├── cpp_07/       (?/100)   - Templates, Iterators, Algorithms.
 │   ├── cpp_08/       (?/100)   - More STL, MutantStack, EasyFind, Span.
+│   ├── cpp_09/       (?/100)   - Implemented custom containers (Vector, Map) and advanced algorithms.
 ├── cub3d/            (100/100) - A basic raycasting engine.
 ├── 42-IRC/           (100/100) - Modern C++98 IRC server.
 ├── 42-Inception/     (?/100)   - Docker-based system administration project simulating real-world IT infrastructure. Focused on service orchestration, networking, and container management.
