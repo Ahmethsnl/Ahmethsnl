@@ -117,4 +117,4 @@ interests:
     "Data Science"
   ]
 
-```
+</details> ```
