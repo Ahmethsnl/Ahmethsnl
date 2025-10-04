@@ -212,48 +212,4 @@ ahmethsnl/
 
 ```yaml
 
-located_in: Istanbul
-education:
-  [
-    "42 Kocaeli - Software Developer",
-    "Istanbul University - Management Information Systems"
-  ]
-certificates:
-  [
-    "Introduction to Cybersecurity - Cisco Networking Academy (Jun 2024)",
-    "Agility at IBM (May 2024)",
-    "Artificial Intelligence I - IBM (May 2024)",
-    "Artificial Intelligence II - IBM (May 2024)",
-    "Blockchain I - IBM (May 2024)",
-    "Blockchain II - IBM (May 2024)",
-    "Cloud Computing I - IBM (May 2024)",
-    "Cloud Computing II - IBM (May 2024)",
-    "Cybersecurity I - IBM (May 2024)",
-    "Cybersecurity II - IBM (May 2024)",
-    "Data Science I - IBM (May 2024)",
-    "Data Science II - IBM (May 2024)",
-    "Design Thinking I - IBM (May 2024)",
-    "Design Thinking II - IBM (May 2024)",
-    "Internet of Things - IBM (May 2024)",
-    "ICP Rust Bootcamp - Rise In (Dec 2023)",
-    "S-Level Business Academy Completion Certificate - Ludi (Dec 2023)",
-    "Hi-Kod Patikası - Patika.dev (Nov 2023)",
-    "Hypercasual Fundamentals - BTK ICT (Oct 2022)",
-    "Project Management Fundamentals - BTK ICT (Oct 2022)"
-  ]
-interests:
-  [
-    "C",
-    "C++",
-    "C#",
-    "Unity",
-    "Algorithms",
-    "AI",
-    "Blockchain",
-    "Cybersecurity",
-    "Cloud Computing",
-    "Data Science"
-  ]
-```
-
 ```
