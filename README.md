@@ -100,3 +100,53 @@ ahmethsnl/
 - [**42-cpp_modules**](https://github.com/Ahmethsnl/42-cpp_modules): Intro to Object-Oriented Programming in C++ (cpp_00 - cpp_08).
 - [**cub3d**](https://github.com/Ahmethsnl/cub3d): A basic raycasting engine inspired by Wolfenstein 3D.
 - [**42-IRC**](https://github.com/Ahmethsnl/42-IRC): Modern C++98 IRC server.
+
+
+
+
+#include <stdio.h>
+
+typedef struct {
+    char *name;
+    char *location;
+    char *education[10];     // max 10 entries
+    char *certificates[10];  // max 10 entries
+    char *interests[10];     // max 10 entries
+} Profile;
+
+int main() {
+    Profile me = {
+        "Your Name",
+        "Turkey",
+        {
+            "42 Kocaeli - Software Developer | Transcender at 42cursus",
+            NULL
+        },
+        {
+            NULL
+        },
+        {
+            "C",
+            "C++",
+            "JavaScript",
+            "Algorithms",
+            NULL
+        }
+    };
+
+    printf("Name: %s\nLocation: %s\n", me.name, me.location);
+
+    printf("Education:\n");
+    for (int i = 0; me.education[i] != NULL; i++)
+        printf("  - %s\n", me.education[i]);
+
+    printf("Certificates:\n");
+    for (int i = 0; me.certificates[i] != NULL; i++)
+        printf("  - %s\n", me.certificates[i]);
+
+    printf("Interests:\n");
+    for (int i = 0; me.interests[i] != NULL; i++)
+        printf("  - %s\n", me.interests[i]);
+
+    return 0;
+}
