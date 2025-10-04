@@ -89,7 +89,7 @@ ahmethsnl/
 │   ├── cpp_02/       (80/100)  - Inheritance and polymorphism.
 │   ├── cpp_03/       (80/100)  - Advanced OOP concepts.
 │   ├── cpp_04/       (80/100)  - Templates and STL.
-|   ├── cpp_05/       (?/100)   - Exceptions .
+|   ├── cpp_05/       (?/100)   - Exceptions.
 │   ├── cpp_06/       (?/100)   - Casts, Serialization, TypeInfo, Containers.
 │   ├── cpp_07/       (?/100)   - Templates, Iterators, Algorithms.
 │   ├── cpp_08/       (?/100)   - More STL, MutantStack, EasyFind, Span.
