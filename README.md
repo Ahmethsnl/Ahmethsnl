@@ -63,6 +63,8 @@ interests:
     "Cybersecurity",
     "Cloud Computing",
   ]
+
+💡 Configuration-style format used intentionally to reflect structured thinking.
 ```
 
 ---
