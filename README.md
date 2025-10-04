@@ -9,7 +9,7 @@
 </p>
 
 ---
-### 📜 Profile Details
+<h3 align="center">📜 Profile Details</h3>
 
 ```yaml
 located_in: Istanbul
