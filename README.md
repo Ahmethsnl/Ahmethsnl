@@ -11,10 +11,11 @@
 ---
 <h3 align="center">📜 Profile Details</h3>
 
+**LinkedIn:** [ahmethsnl](https://www.linkedin.com/in/ahmethsnl/)  
+**Email:** [asanli018@gmail.com](mailto:asanli018@gmail.com)  
+
 ```yaml
 located_in: Istanbul
-LinkedIn: https://www.linkedin.com/in/ahmethsnl/
-How to reach me: **asanli018@gmail.com**
 education:
   [
     "42 Kocaeli - Software Developer",
