@@ -26,7 +26,7 @@
 located_in: Istanbul
 education:
   [
-    "42 Kocaeli - Software Developer",
+    "42 Istanbul - Software Developer",
     "Istanbul University - Management Information Systems"
   ]
 certificates:
